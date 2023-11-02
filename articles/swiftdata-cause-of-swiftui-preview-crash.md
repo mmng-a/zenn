@@ -2,7 +2,7 @@
 title: "[SwiftData] SwiftUIのPreviewが表示されない時は"
 emoji: "🛢️"
 type: "tech"
-topics: ["swift"]
+topics: ["swift", "swiftui", "swiftdata", "coredata"]
 published: true
 ---
 
