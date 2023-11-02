@@ -1,7 +1,7 @@
 ---
 title: "自動微分のSIL"
 emoji: "➗"
-type: "tech
+type: "tech"
 topics: ["swift"]
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Swiftで自動微分"
 emoji: "➗"
-type: "tech
+type: "tech"
 topics: ["swift"]
 published: false
 ---
